@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.text{
+    text-align: center;
+    color: red;
+    font-weight: 900;
+    font-size: 30px;
+    width: 300px;
+    height: 300px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+
+   
+   
+    
+    
+}
+.j_1{
+    width: 300px;
+    height: 300px;
+    background-color: blue;
+    border-radius: 20px;
+    box-shadow: 15px 25px 0px black;
+    
+}
+.j_2{
+     width: 300px;
+    height: 300px;
+    background-color: indigo;
+    border-radius: 10px;
+    box-shadow: 30px 12px 11px darkgoldenrod;
+}
+.j_3{
+  width: 300px;
+    height: 300px;
+    background-color: brown;
+    border-radius: 10px;
+    box-shadow: 40px 40px 40px orchid;
+}
+.j_4{
+  width: 300px;
+    height: 300px;
+    background-color: darkorange;
+    border-radius: 10px;
+    box-shadow: 21px 13px 0px seagreen ;
+}
+.j_5{
+  width: 300px;
+    height: 300px;
+    background-color:  lightgreen;
+    border-radius: 10px;
+    box-shadow: 52px 69px 1px fuchsia;
+}
+.j_6{
+    width: 300px;
+    height: 300px;
+    background-color: peachpuff;
+    border-radius: 10px;
+    box-shadow: 18px 34px 100px gold;
+}
+.j_7{
+  width: 300px;
+    height: 300px;
+    background-color: khaki;
+    border-radius: 10px;
+    box-shadow: 34px 18px 41px darkmagenta;
+}
+.j_8{
+  width: 300px;
+    height: 300px;
+    background-color: hotpink;
+    border-radius: 10px;
+    box-shadow: 45px 38px 13px purple;
+}
+.j_9{
+  width: 300px;
+    height: 300px;
+    background-color: mediumblue;
+    border-radius: 10px;
+    box-shadow: 24px 16px 4px burlywood;
+}
+.j_10{
+  width: 300px;
+    height: 300px;
+    background-color: forestgreen;
+    border-radius: 10px;
+    box-shadow: 20px 10px 7px gainsboro;
+}
+.j_11{
+  width: 300px;
+    height: 300px;
+    background-color: darkgoldenrod;
+    border-radius: 10px;
+    box-shadow: 15px 21px 6px darkolivegreen;
+}
+.j_12{
+  width: 300px;
+    height: 300px;
+    background-color: lightskyblue;
+    border-radius: 10px;
+    box-shadow: 39px 18px 3px yellow;
+}
+.j_13{
+  width: 300px;
+    height: 300px;
+    background-color: indianred;
+    border-radius: 10px;
+    box-shadow: 10px 12px 2px wheat;
+}
+.j_14{
+  width: 300px;
+    height: 300px;
+    background-color: aqua;
+    border-radius: 10px;
+    box-shadow: 31px 35px 8px cadetblue;
+}
+.j_15{
+  width: 300px;
+    height: 300px;
+    background-color: grey;
+    border-radius: 10px;
+    box-shadow: 33px 14px 0px fuchsia;
+}
+.j_16{
+  width: 300px;
+    height: 300px;
+    background-color: palegreen;
+    border-radius: 10px;
+    box-shadow: 27px 21px 0px ivory;
+}
+.j_17{
+  width: 300px;
+    height: 300px;
+    background-color: firebrick;
+    border-radius: 10px;
+    box-shadow: 19px 45px 9px red;
+}
+.j_18{
+  width: 300px;
+    height: 300px;
+    background-color: plum;
+    border-radius: 10px;
+    box-shadow: 90px 51px 42px cadetblue;
+}
+.j_19{
+  width: 300px;
+    height: 300px;
+    background-color: ghostwhite;
+    border-radius: 10px;
+    box-shadow: 73px 44px 0px violet;
+}
+.j_20{
+  width: 300px;
+    height: 300px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    box-shadow: 98px 54px 0px tomato;
+}
+.div{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
